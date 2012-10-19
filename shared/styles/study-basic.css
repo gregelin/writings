@@ -1,0 +1,119 @@
+body {
+    margin:         0px 10% 0 10%;
+    padding:        0px;
+    font-family:    "arial", "helvetica", "sans-serif";
+    color:          #222;
+    background-color: #fff;
+    font-size:      10pt;
+    quotes:         "\201C" "\201E" "\2018" "\2019";
+}
+
+
+#pg_top {
+    #background-color:#10447E;
+    background-color: #9E0000;
+    padding: 12px 0px 12px 0px;
+    background-position: top center;
+    background-repeat: no-repeat;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin: 12px 12px 0px 12px;
+    
+}
+
+#pg_top_title {
+    position:relative;
+    text-align:center;
+    font-size: 2em;
+    font-weight:normal;
+    color: #fff;
+}
+
+#pg_top_title a, a:visited, a:active {
+    font-weight:normal;
+    color: #fff;
+    text-decoration:none;
+}
+
+#pg_top_instructions {
+    position:relative;
+    text-align:center;
+    font-size: 1.5em;
+    font-weight:normal;
+    color: #fff;
+}
+
+div#pg_mdl {
+    position:relative;
+    font-weight:normal;
+    color: #000;
+    margin:16px 5% 16px 12px;
+}
+
+div#pg_btm {
+    position:relative;
+    border: 1px solid #C7C7C7;
+    background-color: #F4F4F4;
+    margin: 35px 12px 4px 12px;
+    padding: 8px 0px 16px 0px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+div#pg_btm table {
+    position:relative;
+    #border:1px solid #eee;
+    width:96%;
+}
+
+div.ft_col, span.ft_col {
+    position:relative;
+    font-weight:bold;
+    color: #13418E;
+}
+li.ft_item, li.ft_text {
+    position:relative;
+    list-style:none;
+    font-size:1.0em;
+    margin-left:4px;
+    color: #13418E;
+}
+
+li.ft_text {
+    color: #444;
+    margin: 4px 0px 4px 0px;
+    width:300px;
+}
+
+li.ft_item a {
+    text-decoration: none;
+}
+
+li.ft_item a:hover {
+    text-decoration: underline;
+}
+
+
+.body-text {
+    width:90%;
+    margin: 8px 0px 12px 8px;
+}
+
+.body-text a {
+	color: blue;
+	text-decoration: underline;
+}
+
+
+#title-date, .title-date, .title-text {
+    font-family: arial, helvetica, sans-serif;
+    font-size:1.1em;
+    font-weight:bold;
+    #color: #0479A7;
+    color: #9E0000;
+}
+
+.body-text {
+    width:90%;
+    margin: 8px 0px 12px 8px;
+}
